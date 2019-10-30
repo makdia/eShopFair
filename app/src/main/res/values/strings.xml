@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eShopFair</string>
+    <string name="add_product">Add Product</string>
+    <string name="view_product">Stock &amp; Price</string>
+    <string name="product_details">Product Details</string>
+
+    <string-array name="category">
+        <item>Select category</item>
+        <item>Women</item>
+        <item>Man</item>
+        <item>Phone</item>
+        <item>Tab</item>
+        <item>Other</item>
+    </string-array>
+</resources>
